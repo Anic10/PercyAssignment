@@ -1,0 +1,18 @@
+{
+  "name": "cypercy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "percy exec -- cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.1.0"
+  },
+  "devDependencies": {
+    "@percy/cli": "^1.0.0-beta.71",
+    "@percy/cypress": "^3.1.1"
+  }
+}
