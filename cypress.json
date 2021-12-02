@@ -1,0 +1,6 @@
+{
+    "env" :{
+    "baseurl" : "https://www.browserstack.com",
+    "tempurl": "https://k8s.bsstag.com"
+    }
+}
